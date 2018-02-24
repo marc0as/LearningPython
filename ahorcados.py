@@ -101,7 +101,7 @@ def run():
 
     while True:
 
-        os.system('cls')
+        os.system('cls')  
 
         display_board(hidden_word, tries)
         current_letter = str(input('Escoge una letra: '))

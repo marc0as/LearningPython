@@ -18,7 +18,7 @@ def run():
 
     result = IsPrime(Number)
 
-    if result == True:
+    if result:
         print('El {} es primo'.format(Number))
     else:
         print('El {} NO es primo'.format(Number))

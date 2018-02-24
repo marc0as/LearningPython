@@ -1,4 +1,4 @@
 # -*- coding utf-8 -*-
 
-Nom = str(input('¿Cuál es tu nombre? '))
-print('Hola, ' + Nom + '!')
+name = str(input('¿Cuál es tu nombre? '))
+print('Hola, ' + name + '!')

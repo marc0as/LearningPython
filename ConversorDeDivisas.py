@@ -7,7 +7,7 @@ def ForeignExchangeCalc(ammount):
 
 def run():
     print('Calculadora de Divisas')
-    print('Convierte de pseos mexicanos a pesos clombianos.')
+    print('Convierte de pseos mexicanos a pesos colombianos.')
     print('')
 
     ammount = float(input('Ingresa la cantidad de pesos mexicanos que vas a convertir: '))
